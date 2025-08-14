@@ -1,0 +1,21 @@
+18:29:31.797 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - *****Starting TC_002_LoginTest *****
+18:51:37.365 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\lahar\eclipse-workspace\Mavenproject\OpencartV121\grid-docker.xml
+
+18:51:43.488 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ***** Starting TC001_AccountRegistrationTest   *****
+18:51:44.554 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register Link
+18:51:44.558 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:37)oggger - Providing customer details....
+18:51:46.637 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:52)oggger - Validating expected message...
+18:51:46.714 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:67)oggger - Finished Test Case...
+18:51:49.830 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - *****Starting TC_002_LoginTest *****
+18:51:52.059 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:43)oggger - *****Finished TC_002_LoginTest*****
+18:53:35.899 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\lahar\eclipse-workspace\Mavenproject\OpencartV121\grid-docker.xml
+
+18:53:43.068 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ***** Starting TC001_AccountRegistrationTest   *****
+18:53:44.006 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register Link
+18:53:44.009 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:37)oggger - Providing customer details....
+18:53:45.558 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:52)oggger - Validating expected message...
+18:53:45.605 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:67)oggger - Finished Test Case...
+18:53:51.193 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - *****Starting TC_002_LoginTest *****
+18:53:53.084 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:43)oggger - *****Finished TC_002_LoginTest*****
